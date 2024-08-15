@@ -9,4 +9,4 @@ I'm highly capable in operations, training, human resources, and project managem
 Please check out my [Wiki](https://github.com/Jeanie-Rodriguez/Portfolio/wiki) for examples of my work.
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanie-rodriguez)
-[![text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanie.h.rodriguez@gmail.com) 
+[![text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanie.h.rodriguez@gmail.com)
