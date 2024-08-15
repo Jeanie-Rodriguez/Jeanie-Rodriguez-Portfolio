@@ -2,9 +2,9 @@
 
 <img align="left" src=https://github.com/Jeanie-Rodriguez/Portfolio/blob/main/Profile%20Picture.png alt=Photo of Jeanie width="200"/>
 
-I'm a dedicated and detail-oriented professional with over 20 years of experience in the United States Air Force as a Weather Technician. My career has been marked by a passion for delivering high-quality work with a focus on precision, effective communication, reliability, and innovative problem-solving.
+I'm a dedicated and detail-oriented professional with over 20 years of experience in the United States Air Force as a Weather Technician. My career has been marked by a passion for delivering high-quality work with a focus on precision, reliability, effective communication, and innovative problem-solving.
 
-I'm highly capable in operations, training, human resources, and project management, and have extensive experience in creating, editing, and managing technical documentation.
+I have extensive experience in operations and project management and in creating, editing, and managing a variety of technical documentation.
 
 Please check out my [Wiki](https://github.com/Jeanie-Rodriguez/Portfolio/wiki) for examples of my work.
 
