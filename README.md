@@ -1,6 +1,6 @@
 ## Jeanie Rodriguez's Portfolio
 
-<img align="left" src=https://github.com/Jeanie-Rodriguez/Portfolio/blob/main/Profile%20Picture.png alt=Photo of Jeanie width="170"/>
+<img align="left" src=https://github.com/Jeanie-Rodriguez/Portfolio/blob/main/Profile%20Picture.png alt=Photo of Jeanie width="200"/>
 
 I'm a dedicated and detail-oriented professional with over 20 years of experience in the United States Air Force. My career has been marked by a passion for delivering high-quality work with a focus on precision, effective communication, reliability, and innovative problem-solving.
 
